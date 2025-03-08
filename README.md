@@ -1,4 +1,3 @@
-```
 # 🌤 Next.js Weather App
 
 A simple and beautiful Weather App built with Next.js that provides weather information based on user-searched locations. The app fetches real-time weather data from the OpenWeather API and presents it in an intuitive, responsive UI.
