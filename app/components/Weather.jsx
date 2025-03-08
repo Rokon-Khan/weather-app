@@ -28,7 +28,7 @@ const Weather = () => {
         setIsActive(true);
 
         // Reset active state after 5s
-        setTimeout(() => setIsActive(false), 5000);
+        setTimeout(() => setIsActive(false), 10000);
       }
     } catch {
       setError("Error fetching weather data.");
