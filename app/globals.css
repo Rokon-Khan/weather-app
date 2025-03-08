@@ -37,7 +37,7 @@ body {
 
 .container {
   position: relative;
-  width: 400px;
+  max-width: 400px;
   height: 100px;
   background: rgba(22, 22, 22, 0.1);
   backdrop-filter: blur(50px);

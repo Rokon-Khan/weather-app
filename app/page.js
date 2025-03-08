@@ -1,9 +1,11 @@
+import Weather from "./components/Weather";
+
 export default function Home() {
   return (
     <div>
       <h1 className="text-3xl font-bold text-center text-white">
         Weather App With Next.js
-        <div className="container">
+        {/* <div className="container">
           <div className="search-box">
             <i className="bx bxs-map"></i>
             <input type="text" placeholder="enter your location" />
@@ -50,8 +52,9 @@ export default function Home() {
               <p>Oops! Location not found!</p>
             </div>
           </div>
-        </div>
+        </div> */}
       </h1>
+      <Weather />
     </div>
   );
 }
