@@ -111,8 +111,3 @@ This project is licensed under the **MIT License**.
 
 ```
 
-### Notes:
-- Replace `"https://github.com/your-username/nextjs-weather-app.git"` with your actual GitHub repository link.
-- If you used Tailwind CSS or any additional libraries, add them under "Dependencies."
-
-Let me know if you need any modifications! 🚀
