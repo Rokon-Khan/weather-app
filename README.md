@@ -1,6 +1,4 @@
-Here’s your README file in Markdown format:  
-
-```md
+```
 # 🌤 Next.js Weather App
 
 A simple and beautiful Weather App built with Next.js that provides weather information based on user-searched locations. The app fetches real-time weather data from the OpenWeather API and presents it in an intuitive, responsive UI.
@@ -108,7 +106,5 @@ This project is licensed under the **MIT License**.
 ---
 
 🌟 **Enjoy using the Weather App!** If you like it, consider giving it a ⭐ on GitHub!
-
-```
 
 
